@@ -1,8 +1,8 @@
-const commando = require('discord.js-commando');
-var client = new commando.Client();
+const commando = require('discord.js');
+var client = new Discord.Client();
 var args = args;
 
-class FeedbackCommand extends commando.Command {
+class FeedbackCommand extends Discord.Command {
     constructor(client) {
         super(client, {
             name: 'feedback',
@@ -14,7 +14,7 @@ class FeedbackCommand extends commando.Command {
 
     async run(message, args) {
        message.reply("Thanks for the feedback!");
-       this.client.channels.get('444047121503748096').send('Someones Review: ' + args)
+       client.channels.get('444047121503748096').send('Someones Review: ' + args)
     }
 }
 
