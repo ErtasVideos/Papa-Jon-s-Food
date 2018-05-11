@@ -1,5 +1,5 @@
-const commando = require('discord.js-commando');
-const bot = new commando.Client();
+const commando = require('discord.js');
+const bot = new Discord.Client();
 //Registers of groups
 bot.registry.registerGroup('food', 'Food');
 bot.registry.registerDefaults();
