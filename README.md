@@ -18,8 +18,9 @@ This food bot will blow your mind, its even better than **ALL** the food bots, w
 This bot has a partnering system, But the server has one too, This is how it works
 
 - Give your food based server
-- i put it on partner.js
-- success
+- Get your server hopefully approved
+- I put it on partner.js
+- Success!
 
 # Server Partnering
 
@@ -28,3 +29,12 @@ This bot has a partnering system, But the server has one too, This is how it wor
 - if you have under 30 members, you have to do @everyone for us
 
 - if you dont do pings, we wont ping for you either
+
+# The creator
+
+ErtasVideos#5592
+
+# Amazing fans
+
+Orotasan (loved by Chiaki)#4456
+JoJo Bizarre Tin#9052
